@@ -10,6 +10,8 @@ Para rodar esse projeto, é necessário o download das pastas e a instalação d
 2. Abra o arquivo .ipynb com o jupyter notebook ou em alguma IDE com a extensão do jupyter notebook
 3. Clique em "Run all".
 
+Alternativamente, o notebook integrado do github permite que você visualize o notebook e o resultado do código.
+
 ## Fonte dos dados
 
 Os dados foram adquiridos no [Kaggle](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers) que, segundo o autor do problema, adquiriu-os [neste link](https://leaps.analyttica.com/). Fiz uma pequena alteração, mencionada pelo próprio autor. No dataset original, haviam duas colunas "a mais" ("NAIVE BAYES CLAS…"). Eu as deletei previamente para manter a fluidez do exercício.
